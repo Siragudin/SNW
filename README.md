@@ -48,6 +48,15 @@ Simulation‑Native Worlds redefine how digital environments are created and exp
 This architecture shifts the player’s role from “center of the universe” to **participant in a living system**.
 
 ---
+## 📚 Simulation‑Native Worlds — Book Series
+
+### Published
+📘 **SNW I — Worlds of Native Simulation**  
+[docs/SNW-I.pdf](docs/SNW-I.pdf)
+
+### Upcoming
+*(Add links here when new volumes are ready)*
+---
 
 ## ✍️ Author
 **Siragudin Guseynov**
