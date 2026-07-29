@@ -1,66 +1,50 @@
-# Simulation-Native Worlds: Trilogy Specification
+# Simulation‑Native Worlds  
+### GameAI, Intent and the Architecture of Living Digital Reality
 
-![Simulation-Native Worlds Banner](https://unsplash.com) <!-- Replace with your cover image -->
+A conceptual framework for building digital worlds that behave, evolve, and persist through **matter**, **agents**, and **intentions** rather than scripts or handcrafted logic.
 
-> "Don't just play in worlds. Live in them."
+Simulation‑Native Worlds explores how environments can become truly alive:  
+- matter with physical properties that generate behavior,  
+- agents acting as material bodies with goals and limits,  
+- player intentions translated into physical actions,  
+- and adaptive simulation that keeps the world evolving even when unseen.
 
-Welcome to the architectural specification repository for **Simulation-Native Worlds**, a theoretical framework and conceptual trilogy exploring the future of digital realities, emergent gameplay, and material causality in video games and virtual spaces.
-
-This repository contains the core conceptual design documents, chapter-by-chapter breakdowns, and architectural blueprints for a shift away from traditional, script-heavy game engines toward fully simulated, self-sustaining digital ecosystems.
-
----
-
-## 📚 Trilogy Overview
-
-The framework is divided into three distinct volumes, moving sequentially from philosophical vision to structural systems, and finally to behavioral mechanics.
-
-### Volume I: Worlds of Native Simulation
-*The Philosophy: Why must virtual worlds change?*
-* **Core Thesis:** Modern AAA worlds are "frozen systems"—beautiful visual stages trapped inside predefined scripts and predictable state machines.
-* **Key Concepts:** Bounded cognition for GameAI, introduction to Intent-Driven Interaction, and the illusion of button-based mechanics.
-
-### Volume II: Material Architecture
-*The Structure: What are living digital environments made of?*
-* **Core Thesis:** In a living reality, substance must precede form. Objects are merely temporary expressions of matter.
-* **Key Concepts:** Material Regions (voxels with physical properties replacing static meshes), persistent world memory ("scars of time"), dynamic terrain, and thermodynamic/fluid cycles acting as processes instead of graphical effects.
-
-### Volume III: Blueprints of Living Digital Reality
-*The Engineering: How do these systems work together in real-time?*
-* **Core Thesis:** A unified three-layer architecture (Matter ➔ Agents ➔ Intentions) capable of managing extreme complexity through Adaptive Simulation.
-* **Key Concepts:** The "sleeping particle" optimization protocol, localized pixel-level detail around the player, social ecosystems driven by weighted information flows among NPCs, and Intent AI translating semantic inputs (voice/intent) into real-time procedural animations.
-## 🏗️ The Three-Layer Architecture
-
-The trilogy proposes a strict structural division for next-generation virtual environments:
-
-Используйте код с осторожностью.┌─────────────────────────────────────────────────────────┐│              LAYER 3: INTENTION (Semantic)              ││  Translates player intent (voice/thought) into actions  │└────────────────────────────┬────────────────────────────┘▼┌─────────────────────────────────────────────────────────┐│               LAYER 2: AGENTS (Behavioral)              ││  Autonomous NPCs with independent goals & memory tags   │└────────────────────────────┬────────────────────────────┘▼┌─────────────────────────────────────────────────────────┐│                LAYER 1: MATTER (Physical)               ││ Continuous Material Regions governed by systemic laws   │└────────────────────────────┴────────────────────────────┘
-1. **Matter Layer (Physical Foundation):** The baseline of existence. Everything answers to real physical properties: mass, density, temperature, moisture, friction, and deformation. Objects lose their rigid "model status" and become temporary expressions of matter.
-2. **Agents Layer (Behavioral Intelligence):** Player and NPCs embedded as material bodies. NPCs have no global data access; they see the world locally through active geometry, retain dynamic relationship tags, and adapt to systemic environmental changes.
-3. **Intention Layer (Semantic Bridge):** Replaces traditional button-cluttered execution loops. Replaces static context menus with a hybrid input language that translates semantic goals (voice/intent) into dynamically generated real-time procedural movements.
+This repository presents the architectural core behind a new generation of digital realities — worlds defined by causality, honesty, and permanence.  
+Not a technical manual.  
+Not an implementation guide.  
+A foundation for environments that don’t wait for the player, but exist on their own.
 
 ---
 
-## 🌪️ Key Architectural Breakthroughs
+## Key Ideas
 
-* **Adaptive Simulation ("Sleeping Particles"):** Solves the computational complexity paradox. Voxel particles remain completely dormant in large, abstract blocks. Full pixel-level physics and simulation only "wake up" locally where active changes occur or under the player's direct interaction.
-* **Causality Over Mechanics:** Eliminates standalone "fire systems," "water shaders," or "destruction scripts." Processes are interconnected: a bridge collapses because loading stress exceeds its material integrity; a forest burns because its dry organic particles cleared the thermal ignition threshold.
-* **Social Emergence:** Information flows naturally through local contacts (whispers, shouts, rumors) rather than a global master database. NPCs build authentic histories and reputations based on dynamic weighted memory tags that decay naturally over time.
-* ## 🎯 Target Audience
+### **Matter**
+Worlds built from physical properties — not static objects.  
+Fire spreads, water flows, materials deform, structures fail.
 
-This architectural design blueprint is structured specifically for:
-* **System Architects & Engine Developers** looking for design paradigms to move beyond traditional Object-Oriented or basic ECS (Entity Component System) models.
-* **Game Designers** looking to break away from linear scripted quest design in order to construct truly organic, systemic open-world sandboxes.
-* **Virtual Reality & Metaverse Visionaries** searching for structural and material coherence to build long-lasting, historical digital environments.
+### **Agents**
+NPCs as autonomous bodies inside the same physics as the player.  
+They perceive, decide, act, and leave consequences.
 
----
+### **Intentions**
+A semantic interface where the player expresses meaning, not commands.  
+Intent becomes action through physical primitives.
 
-## 📜 Author & Metadata
-
-* **Author:** Siragudin Guseynov
-* **Timeline:** Project Specification developed for July 2026 Release
-* **Status:** Conceptual Specification / Architectural Manifesto
+### **Adaptive Simulation**
+Full detail near the player, abstract but honest processes at a distance.  
+The world never pauses. It keeps living.
 
 ---
 
-## 💬 Community & Contributions
+## Why It Matters
+Simulation‑Native Worlds redefine how digital environments are created and experienced.  
+They enable emergent behavior, long‑term consequences, real creativity, and a new role for the player — not the center of the universe, but a participant in a living system.
 
-Feel free to open an **Issue** or jump into the **Discussions** section if you are a developer, researcher, or engineer interested in discussing the practical implementation roadblocks, hardware scaling limitations, or design possibilities of Simulation-Native Architectures.
+---
+
+## Author
+**Siragudin Guseynov**
+
+---
+
+> “Don’t play worlds. Live in them.”
