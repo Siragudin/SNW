@@ -1,7 +1,9 @@
 # Simulation‑Native Worlds  
 ### GameAI, Intent and the Architecture of Living Digital Reality
 
-![Cover](images/icon.png)
+<p align="center">
+  <img src="images/icon.png" width="240" alt="Simulation-Native Worlds Cover">
+</p>
 
 ---
 
