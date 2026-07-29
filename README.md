@@ -1,48 +1,53 @@
 # Simulation‑Native Worlds  
 ### GameAI, Intent and the Architecture of Living Digital Reality
 
-A conceptual framework for building digital worlds that behave, evolve, and persist through **matter**, **agents**, and **intentions** rather than scripts or handcrafted logic.
-
-Simulation‑Native Worlds explores how environments can become truly alive:  
-- matter with physical properties that generate behavior,  
-- agents acting as material bodies with goals and limits,  
-- player intentions translated into physical actions,  
-- and adaptive simulation that keeps the world evolving even when unseen.
-
-This repository presents the architectural core behind a new generation of digital realities — worlds defined by causality, honesty, and permanence.  
-Not a technical manual.  
-Not an implementation guide.  
-A foundation for environments that don’t wait for the player, but exist on their own.
+<!-- PLACE YOUR COVER IMAGE HERE -->
 
 ---
 
-## Key Ideas
+## 🌍 Vision
+A new architectural model for digital worlds built not from scripts, triggers, or handcrafted logic — but from **matter**, **agents**, and **intentions**.  
+Simulation‑Native Worlds explore how environments can behave, evolve, and persist through physical causality and autonomous processes.
 
-### **Matter**
-Worlds built from physical properties — not static objects.  
-Fire spreads, water flows, materials deform, structures fail.
+This is not a technical manual.  
+This is the conceptual foundation for worlds that don’t wait for the player — worlds that *exist*.
 
-### **Agents**
-NPCs as autonomous bodies inside the same physics as the player.  
+---
+
+## 🔧 Core Concepts
+
+### 🪨 **Matter**
+Worlds composed of physical properties, not static objects.  
+Fire spreads, water flows, materials deform, structures fail — all through honest physics.
+
+### 🧍 **Agents**
+NPCs as autonomous bodies inside the same physical reality as the player.  
 They perceive, decide, act, and leave consequences.
 
-### **Intentions**
+### 🎯 **Intentions**
 A semantic interface where the player expresses meaning, not commands.  
-Intent becomes action through physical primitives.
+Intent becomes action through physical primitives and procedural motion.
 
-### **Adaptive Simulation**
+### 🔄 **Adaptive Simulation**
 Full detail near the player, abstract but honest processes at a distance.  
-The world never pauses. It keeps living.
+The world never pauses — it keeps living.
 
 ---
 
-## Why It Matters
-Simulation‑Native Worlds redefine how digital environments are created and experienced.  
-They enable emergent behavior, long‑term consequences, real creativity, and a new role for the player — not the center of the universe, but a participant in a living system.
+## 🌱 Why It Matters
+Simulation‑Native Worlds redefine how digital environments are created and experienced:
+
+- emergent behavior instead of scripted events  
+- long‑term consequences instead of static states  
+- real creativity through matter, not recipes  
+- NPCs that live their own lives  
+- worlds that evolve even when unseen  
+
+This architecture shifts the player’s role from “center of the universe” to **participant in a living system**.
 
 ---
 
-## Author
+## ✍️ Author
 **Siragudin Guseynov**
 
 ---
