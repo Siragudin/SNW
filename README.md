@@ -59,6 +59,7 @@ This architecture shifts the player’s role from “center of the universe” t
 
 ## ✍️ Author
 **Siragudin Guseynov**
+**July 2026**
 
 ---
 
