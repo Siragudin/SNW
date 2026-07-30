@@ -50,15 +50,10 @@ This architecture shifts the player’s role from “center of the universe” t
 ---
 ## 📚 Simulation‑Native Worlds — Book Series
 
-### Published
-📘 **SNW I — Worlds of Native Simulation**  
-[docs/SNW-I.pdf](docs/SNW-I.pdf)
-### Published
-📘 **SNW II —  Material Architecture** 
-[docs/SNW-II.pdf](docs/SNW-II.pdf)
-### Published
-📘 **SNW III — World Architecture** 
-[docs/SNW-III.pdf](docs/SNW-III.pdf)
+### 🚀 Published Volumes
+* 📘 **SNW I — Worlds of Native Simulation** • [Read PDF](docs/SNW-I.pdf)
+* 📘 **SNW II — Material Architecture** • [Read PDF](docs/SNW-II.pdf)
+* 📘 **SNW III — World Architecture** • [Read PDF](docs/SNW-III.pdf)
 
 
 ---
