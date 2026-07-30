@@ -53,10 +53,10 @@ This architecture shifts the player’s role from “center of the universe” t
 ### Published
 📘 **SNW I — Worlds of Native Simulation**  
 [docs/SNW-I.pdf](docs/SNW-I.pdf)
-
+### Published
 📘 **SNW II —  Material Architecture** 
 [docs/SNW-II.pdf](docs/SNW-II.pdf)
-
+### Published
 📘 **SNW III — World Architecture** 
 [docs/SNW-III.pdf](docs/SNW-III.pdf)
 
