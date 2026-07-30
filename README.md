@@ -53,6 +53,8 @@ This architecture shifts the player’s role from “center of the universe” t
 ### Published
 📘 **SNW I — Worlds of Native Simulation**  
 [docs/SNW-I.pdf](docs/SNW-I.pdf)
+[docs/SNW-II.pdf](docs/SNW-II.pdf)
+[docs/SNW-III.pdf](docs/SNW-III.pdf)
 
 
 ---
